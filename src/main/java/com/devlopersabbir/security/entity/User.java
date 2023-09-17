@@ -11,10 +11,12 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@Table(name="User")
+@Table(name = "User")
 public class User {
     @Id
     @GeneratedValue
     private Integer id;
-    private String fullName, email, password;
+    private String fullName;
+    private String email;
+    private String password;
 }
