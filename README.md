@@ -1,9 +1,9 @@
-## Spring Boot Rest Api
+## Spring Boot Rest API
 
-Full-stack REST api with java spring boot.
+Full-stack REST API with Java Spring boot.
 
 ### TODO
--[x] CRUD Operation 
+- [x] CRUD Operation 
   - Users
   - Post
   - Category
